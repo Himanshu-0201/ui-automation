@@ -7,7 +7,9 @@
 	<version>0.0.1-SNAPSHOT</version>
 
 	<dependencies>
-		
+
+
+		<!-- for selenium web driver-->
 		<!--
 		https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 		<dependency>
